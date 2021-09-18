@@ -1,2 +1,3 @@
-# sentiment_analysis
-Using huggingface transformers to measure sentiment.
+# Sentiment Analysis
+
+This repository has code to allow one to use huggingface transformers to measure text sentiment.
